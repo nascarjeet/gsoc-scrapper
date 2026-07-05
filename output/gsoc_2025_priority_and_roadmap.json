@@ -1,0 +1,715 @@
+{
+  "generated_at": "2026-07-05T14:20:09",
+  "input_file": "C:\\Users\\nasca\\gsoc-scraper\\output\\gsoc_2025_organizations_projects.json",
+  "user_profile": "beginner; knows Go, C, Java; avoid too low-level",
+  "top_project_recommendations": [
+    {
+      "rank": 1,
+      "score": 13,
+      "organization": "JSON Schema",
+      "title": "Build a Java wrapper library for sourcemeta/blaze",
+      "size": "medium",
+      "source_code": "https://github.com/json-schema-org",
+      "ideas_link": "https://github.com/json-schema-org/community/blob/main/programs/mentoring/gsoc/gsoc-2026.md",
+      "project_code_url": "https://github.com/MadhavDhatrak/Blaze4J.git",
+      "score_reasons": [
+        "medium scope",
+        "Java fit",
+        "C fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 2,
+      "score": 11,
+      "organization": "AsyncAPI",
+      "title": "Extending AsyncAPI's Generator Java Templates with Quarkus",
+      "size": "medium",
+      "source_code": "https://github.com/asyncapi",
+      "ideas_link": "https://github.com/asyncapi/community/blob/master/docs/050-mentorship-program/summer-of-code-2026-project-ideas.md",
+      "project_code_url": "https://gist.github.com/ssala034/4f90f4695a34d0e6bb897d2551aea973",
+      "score_reasons": [
+        "medium scope",
+        "Java fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 3,
+      "score": 11,
+      "organization": "kro | Kube Resource Orchestrator",
+      "title": "CLI for kro Resource Management",
+      "size": "medium",
+      "source_code": "https://github.com/kro-run",
+      "ideas_link": "https://github.com/kro-run/kro/issues/288",
+      "project_code_url": "https://gist.github.com/DhairyaMajmudar/7b8a4ba6879931675f050916b3fdd696",
+      "score_reasons": [
+        "medium scope",
+        "Go fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 4,
+      "score": 9,
+      "organization": "Dart",
+      "title": "LLM-powered translation of Android (Java/Kotlin) docs into Dart using JNIgen bindings",
+      "size": "large",
+      "source_code": "https://github.com/dart-lang/",
+      "ideas_link": "https://github.com/dart-lang/sdk/blob/main/docs/gsoc/Dart-GSoC-2026-Project-Ideas.md",
+      "project_code_url": "https://github.com/marshelino-maged/GSoC-2025-Report/blob/main/README.md",
+      "score_reasons": [
+        "large scope",
+        "Java fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 5,
+      "score": 9,
+      "organization": "NumFOCUS",
+      "title": "LiftOver2D: A Tool for Converting Hi-C Matrices Across Assemblies and Binning Schemes",
+      "size": "medium",
+      "source_code": "https://github.com/numfocus/gsoc#organizations-confirmed-under-numfocus-umbrella",
+      "ideas_link": "https://github.com/numfocus/gsoc/blob/master/2026/ideas-list.md",
+      "project_code_url": "https://github.com/Reovirus/liftover_2d/blob/main/README.md",
+      "score_reasons": [
+        "medium scope",
+        "C fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 6,
+      "score": 9,
+      "organization": "Software and Computational Systems Lab at LMU Munich",
+      "title": "CPA-Daemon: Behavior Driven Tests",
+      "size": "small",
+      "source_code": "https://gitlab.com/sosy-lab/",
+      "ideas_link": "https://www.sosy-lab.org/gsoc/gsoc2025.php",
+      "project_code_url": "https://gitlab.com/sosy-lab/software/cpa-daemon/-/merge_requests/93",
+      "score_reasons": [
+        "small scope",
+        "C fit",
+        "product/app-level work",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 7,
+      "score": 9,
+      "organization": "SQLancer",
+      "title": "Supporting Automated Scripts for DBMS Deployment",
+      "size": "small",
+      "source_code": "https://github.com/sqlancer/sqlancer",
+      "ideas_link": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas",
+      "project_code_url": "https://github.com/sqlancer/auto-sqlancer",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 8,
+      "score": 8,
+      "organization": "Eclipse Foundation",
+      "title": "CommitHunter: AI-Powered Commit Debugger",
+      "size": "large",
+      "source_code": "https://github.com/eclipse",
+      "ideas_link": "https://gitlab.eclipse.org/eclipsefdn/emo-team/gsoc-at-the-ef/-/issues/?sort=created_date&state=opened&label_name%5B%5D=GSoC%202026&first_page_size=100",
+      "project_code_url": "https://gist.github.com/ShantKhatri/43259a8206e93dd1b09bb48ce0d65540",
+      "score_reasons": [
+        "large scope",
+        "Java fit",
+        "product/app-level work",
+        "GitHub workflow likely"
+      ]
+    },
+    {
+      "rank": 9,
+      "score": 8,
+      "organization": "Swift",
+      "title": "JNI mode for swift-java’s source jextract tool",
+      "size": "large",
+      "source_code": "https://github.com/swiftlang/swift",
+      "ideas_link": "https://www.swift.org/gsoc2026/",
+      "project_code_url": "https://forums.swift.org/t/gsoc-2025-new-jni-mode-added-to-swift-java-jextract-tool/81858",
+      "score_reasons": [
+        "large scope",
+        "Java fit",
+        "product/app-level work",
+        "GitHub workflow likely"
+      ]
+    },
+    {
+      "rank": 10,
+      "score": 8,
+      "organization": "The Linux Foundation",
+      "title": "Utilizing OSS-Fuzz-Gen to Improve Fuzz Testing  for OpenPrinting Projects",
+      "size": "large",
+      "source_code": "https://github.com/LinuxFoundationGSoC/ProjectIdeas/wiki/Google-Summer-of-Code-2026#our-source-code-repositories",
+      "ideas_link": "https://github.com/LinuxFoundationGSoC/ProjectIdeas/wiki/Google-Summer-of-Code-2026",
+      "project_code_url": "https://github.com/OpenPrinting/fuzzing/blob/main/contributions/GSoC%202025%20-%20Utilizing%20OSS-Fuzz-Gen%20to%20Improve%20Fuzz%20Testing%20for%20OpenPrinting%20Projects/Final%20report.md",
+      "score_reasons": [
+        "large scope",
+        "C fit",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 11,
+      "score": 8,
+      "organization": "Accord Project",
+      "title": "Specification Conformance Tests",
+      "size": "medium",
+      "source_code": "https://github.com/accordproject",
+      "ideas_link": "https://github.com/accordproject/techdocs/wiki/Google-Summer-of-Code-2026-Ideas-List",
+      "project_code_url": "https://accordproject.org/news/gsoc-2025-specification-conformance-tests/",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 12,
+      "score": 8,
+      "organization": "AsyncAPI",
+      "title": "Implement E2E UI tests for the website critical flows",
+      "size": "medium",
+      "source_code": "https://github.com/asyncapi",
+      "ideas_link": "https://github.com/asyncapi/community/blob/master/docs/050-mentorship-program/summer-of-code-2026-project-ideas.md",
+      "project_code_url": "https://gist.github.com/anushkaaaaaaaa/ae181e428d170f08bf3dcfb22ea274e7",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 13,
+      "score": 8,
+      "organization": "Invesalius",
+      "title": "Add unit tests to InVesalius to ease the process of adding new features",
+      "size": "medium",
+      "source_code": "https://github.com/invesalius/invesalius3",
+      "ideas_link": "https://github.com/invesalius/gsoc/blob/main/gsoc_2026_ideas.md",
+      "project_code_url": "https://github.com/hrishav77/GSOC-2025-Invesalius-Report/blob/main/README.md",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 14,
+      "score": 8,
+      "organization": "Keploy",
+      "title": "API contract matching - Adding Features and Platform support",
+      "size": "medium",
+      "source_code": "https://github.com/keploy/keploy",
+      "ideas_link": "https://github.com/keploy/gsoc/tree/main/2026",
+      "project_code_url": "https://vigorous-farmhouse-eb4.notion.site/Gsoc-2025-Harsh-Sharma-Submission-25edd6880cd1808f855ccb7a22f232a2?pvs=73",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 15,
+      "score": 8,
+      "organization": "Keploy",
+      "title": "OSS Code Indexer for Efficient Retrieval",
+      "size": "medium",
+      "source_code": "https://github.com/keploy/keploy",
+      "ideas_link": "https://github.com/keploy/gsoc/tree/main/2026",
+      "project_code_url": "https://github.com/keploy/keploy/pull/2877",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 16,
+      "score": 8,
+      "organization": "Open Robotics",
+      "title": "Multi-Agent Traffic Optimization",
+      "size": "medium",
+      "source_code": "https://github.com/openrobotics",
+      "ideas_link": "https://github.com/osrf/osrf_wiki/wiki/GSoC-2026",
+      "project_code_url": "https://gist.github.com/Nielsencu/bb8405e79ec9434f79ce9c40a94bd03c",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 17,
+      "score": 8,
+      "organization": "rocket.chat",
+      "title": "Maestro as Mobile UI Testing Framework",
+      "size": "medium",
+      "source_code": "https://github.com/RocketChat/Rocket.Chat",
+      "ideas_link": "https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas",
+      "project_code_url": "https://github.com/Rohit3523/gsoc-2025",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 18,
+      "score": 8,
+      "organization": "rocket.chat",
+      "title": "Implement visual regression testing",
+      "size": "medium",
+      "source_code": "https://github.com/RocketChat/Rocket.Chat",
+      "ideas_link": "https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas",
+      "project_code_url": "https://github.com/RocketChat/fuselage/pull/1666",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 19,
+      "score": 8,
+      "organization": "SQLancer",
+      "title": "Integrating Published Testing Approaches into SQLancer",
+      "size": "medium",
+      "source_code": "https://github.com/sqlancer/sqlancer",
+      "ideas_link": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas",
+      "project_code_url": "https://github.com/sqlancer/sqlancer/pull/1251",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 20,
+      "score": 8,
+      "organization": "SQLancer",
+      "title": "Adding Support for the Latest Postgres Version",
+      "size": "medium",
+      "source_code": "https://github.com/sqlancer/sqlancer",
+      "ideas_link": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas",
+      "project_code_url": "https://alex-25.gitbook.io/welcome/gsoc",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 21,
+      "score": 8,
+      "organization": "The Honeynet Project",
+      "title": "Glutton : Refactoring protocol parsers originally written in Go into Spicy",
+      "size": "medium",
+      "source_code": "https://github.com/honeynet",
+      "ideas_link": "https://www.honeynet.org/gsoc/gsoc-2026/google-summer-of-code-2026-project-ideas/",
+      "project_code_url": "https://github.com/mushorg/glutton/pull/185/",
+      "score_reasons": [
+        "medium scope",
+        "Go fit",
+        "GitHub workflow likely"
+      ]
+    },
+    {
+      "rank": 22,
+      "score": 8,
+      "organization": "The Rust Foundation",
+      "title": "Improve Wild linker test suites",
+      "size": "medium",
+      "source_code": "https://github.com/rust-lang/rust",
+      "ideas_link": "https://github.com/rust-lang/google-summer-of-code",
+      "project_code_url": "https://lapla.dev/posts/gsoc_final/",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 23,
+      "score": 8,
+      "organization": "The Rust Foundation",
+      "title": "Extend behavioural testing of std::arch intrinsics",
+      "size": "medium",
+      "source_code": "https://github.com/rust-lang/rust",
+      "ideas_link": "https://github.com/rust-lang/google-summer-of-code",
+      "project_code_url": "https://hackmd.io/@madhav-madhusoodanan/extend-behavioural-testing-of-stdarch-intrinsics",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 24,
+      "score": 8,
+      "organization": "The Rust Foundation",
+      "title": "Implement merge functionality in bors",
+      "size": "medium",
+      "source_code": "https://github.com/rust-lang/rust",
+      "ideas_link": "https://github.com/rust-lang/google-summer-of-code",
+      "project_code_url": "https://sakib25800.notion.site/Google-Summer-of-Code-2025-Implement-merge-functionality-in-bors-25ca1a53f49280a88ecdf72b00cb912d",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 25,
+      "score": 8,
+      "organization": "Unikraft",
+      "title": "Testing Framework for Unikraft Builds",
+      "size": "medium",
+      "source_code": "https://github.com/unikraft/",
+      "ideas_link": "https://github.com/unikraft/gsoc/blob/staging/gsoc-2026/ideas.md",
+      "project_code_url": "https://github.com/unikraft/gsoc/blob/staging/gsoc-2025/work-product/Shashank-Srivastava-Autokraft-Testing-framework/Shashank-Srivastava-Autokraft-Testing-framework.md",
+      "score_reasons": [
+        "medium scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub",
+        "testing-friendly starter path"
+      ]
+    },
+    {
+      "rank": 26,
+      "score": 8,
+      "organization": "API Dash",
+      "title": "AI-Based API Response to Dynamic UI and Tool Generator",
+      "size": "small",
+      "source_code": "https://github.com/foss42/apidash",
+      "ideas_link": "https://github.com/foss42/apidash/discussions/1054",
+      "project_code_url": "https://github.com/foss42/apidash/blob/main/doc/gsoc/2025/manas_hejmadi.md",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 27,
+      "score": 8,
+      "organization": "CircuitVerse.org",
+      "title": "Open Hardware Component Library",
+      "size": "small",
+      "source_code": "https://github.com/circuitverse",
+      "ideas_link": "https://github.com/CircuitVerse/CircuitVerse/wiki/GSoC'26-Project-List",
+      "project_code_url": "https://blog.circuitverse.org/posts/nihal_gsoc25_final_report/",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 28,
+      "score": 8,
+      "organization": "FOSSology",
+      "title": "Enhancing Debian Packaging for FOSSology",
+      "size": "small",
+      "source_code": "https://github.com/fossology/fossology",
+      "ideas_link": "https://github.com/fossology/fossology/discussions/3267",
+      "project_code_url": "https://github.com/Ahmed-Gamal24/GSoC2025",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 29,
+      "score": 8,
+      "organization": "Invesalius",
+      "title": "Improvements in user response (loading and   saving files)",
+      "size": "small",
+      "source_code": "https://github.com/invesalius/invesalius3",
+      "ideas_link": "https://github.com/invesalius/gsoc/blob/main/gsoc_2026_ideas.md",
+      "project_code_url": "https://github.com/shrutiparmar2003/Google-Summer-of-Code-2025-Final-Report",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    },
+    {
+      "rank": 30,
+      "score": 8,
+      "organization": "IOOS",
+      "title": "Improving Usability and Features of the Phytoclass R Package and GUI for Phytoplankton Estimation",
+      "size": "small",
+      "source_code": "https://github.com/ioos",
+      "ideas_link": "https://github.com/ioos/gsoc/blob/main/2026/ideas-list.md",
+      "project_code_url": "https://gsoc25-ioos-phytoclass.hashnode.dev/gsoc-2025-ioos-phytoclass",
+      "score_reasons": [
+        "small scope",
+        "product/app-level work",
+        "GitHub workflow likely",
+        "public ideas on GitHub"
+      ]
+    }
+  ],
+  "target_organizations": [
+    {
+      "organization": "JSON Schema",
+      "best_project": "Build a Java wrapper library for sourcemeta/blaze",
+      "best_score": 13,
+      "avg_score": 7.5,
+      "candidate_projects": 6,
+      "source_code": "https://github.com/json-schema-org",
+      "ideas_link": "https://github.com/json-schema-org/community/blob/main/programs/mentoring/gsoc/gsoc-2026.md"
+    },
+    {
+      "organization": "kro | Kube Resource Orchestrator",
+      "best_project": "CLI for kro Resource Management",
+      "best_score": 11,
+      "avg_score": 8.0,
+      "candidate_projects": 2,
+      "source_code": "https://github.com/kro-run",
+      "ideas_link": "https://github.com/kro-run/kro/issues/288"
+    },
+    {
+      "organization": "AsyncAPI",
+      "best_project": "Extending AsyncAPI's Generator Java Templates with Quarkus",
+      "best_score": 11,
+      "avg_score": 7.0,
+      "candidate_projects": 7,
+      "source_code": "https://github.com/asyncapi",
+      "ideas_link": "https://github.com/asyncapi/community/blob/master/docs/050-mentorship-program/summer-of-code-2026-project-ideas.md"
+    },
+    {
+      "organization": "SQLancer",
+      "best_project": "Supporting Automated Scripts for DBMS Deployment",
+      "best_score": 9,
+      "avg_score": 7.5,
+      "candidate_projects": 4,
+      "source_code": "https://github.com/sqlancer/sqlancer",
+      "ideas_link": "https://github.com/sqlancer/sqlancer/wiki/GSoC-2025-Ideas"
+    },
+    {
+      "organization": "Software and Computational Systems Lab at LMU Munich",
+      "best_project": "CPA-Daemon: Behavior Driven Tests",
+      "best_score": 9,
+      "avg_score": 6.0,
+      "candidate_projects": 2,
+      "source_code": "https://gitlab.com/sosy-lab/",
+      "ideas_link": "https://www.sosy-lab.org/gsoc/gsoc2025.php"
+    },
+    {
+      "organization": "Dart",
+      "best_project": "LLM-powered translation of Android (Java/Kotlin) docs into Dart using JNIgen bindings",
+      "best_score": 9,
+      "avg_score": 5.8,
+      "candidate_projects": 5,
+      "source_code": "https://github.com/dart-lang/",
+      "ideas_link": "https://github.com/dart-lang/sdk/blob/main/docs/gsoc/Dart-GSoC-2026-Project-Ideas.md"
+    },
+    {
+      "organization": "NumFOCUS",
+      "best_project": "LiftOver2D: A Tool for Converting Hi-C Matrices Across Assemblies and Binning Schemes",
+      "best_score": 9,
+      "avg_score": 4.42,
+      "candidate_projects": 31,
+      "source_code": "https://github.com/numfocus/gsoc#organizations-confirmed-under-numfocus-umbrella",
+      "ideas_link": "https://github.com/numfocus/gsoc/blob/master/2026/ideas-list.md"
+    },
+    {
+      "organization": "API Dash",
+      "best_project": "AI-Based API Response to Dynamic UI and Tool Generator",
+      "best_score": 8,
+      "avg_score": 7.5,
+      "candidate_projects": 2,
+      "source_code": "https://github.com/foss42/apidash",
+      "ideas_link": "https://github.com/foss42/apidash/discussions/1054"
+    },
+    {
+      "organization": "Processing Foundation",
+      "best_project": "Friendly Sketch Embedder for p5.js",
+      "best_score": 8,
+      "avg_score": 7.33,
+      "candidate_projects": 3,
+      "source_code": "https://github.com/processing/",
+      "ideas_link": "https://github.com/processing/Processing-Foundation-GSoC/wiki/Project-Ideas-List-(GSoC-2026)#project-ideas-list"
+    },
+    {
+      "organization": "CircuitVerse.org",
+      "best_project": "Open Hardware Component Library",
+      "best_score": 8,
+      "avg_score": 7.17,
+      "candidate_projects": 6,
+      "source_code": "https://github.com/circuitverse",
+      "ideas_link": "https://github.com/CircuitVerse/CircuitVerse/wiki/GSoC'26-Project-List"
+    },
+    {
+      "organization": "Keploy",
+      "best_project": "API contract matching - Adding Features and Platform support",
+      "best_score": 8,
+      "avg_score": 6.8,
+      "candidate_projects": 5,
+      "source_code": "https://github.com/keploy/keploy",
+      "ideas_link": "https://github.com/keploy/gsoc/tree/main/2026"
+    },
+    {
+      "organization": "Stichting SU2",
+      "best_project": "MAKE IT EASY TO ADD AND UPDATE UNIT TESTS",
+      "best_score": 8,
+      "avg_score": 6.67,
+      "candidate_projects": 3,
+      "source_code": "https://github.com/su2code/SU2",
+      "ideas_link": "https://su2code.github.io/gsoc/Introduction/"
+    },
+    {
+      "organization": "OpenVINO Toolkit",
+      "best_project": "Integration of Open WebUI with OpenVINO Model Server",
+      "best_score": 8,
+      "avg_score": 6.5,
+      "candidate_projects": 14,
+      "source_code": "https://github.com/openvinotoolkit",
+      "ideas_link": "https://github.com/openvinotoolkit/openvino/wiki/Google-Summer-Of-Code#project-ideas-for-2026"
+    },
+    {
+      "organization": "Swift",
+      "best_project": "JNI mode for swift-java’s source jextract tool",
+      "best_score": 8,
+      "avg_score": 6.25,
+      "candidate_projects": 4,
+      "source_code": "https://github.com/swiftlang/swift",
+      "ideas_link": "https://www.swift.org/gsoc2026/"
+    },
+    {
+      "organization": "rocket.chat",
+      "best_project": "Maestro as Mobile UI Testing Framework",
+      "best_score": 8,
+      "avg_score": 6.21,
+      "candidate_projects": 19,
+      "source_code": "https://github.com/RocketChat/Rocket.Chat",
+      "ideas_link": "https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas"
+    }
+  ],
+  "roadmap": {
+    "objective": "Maximize GSoC acceptance probability for next cycle",
+    "phases": [
+      {
+        "phase": "Phase 1 (Month 1-2): Foundation",
+        "goals": [
+          "Pick 2 target orgs + 1 backup from target_organizations",
+          "Set up build/tests locally for each selected org",
+          "Complete 3 small issues (docs/tests/bugfix) per org"
+        ],
+        "deliverables": [
+          "6 merged PRs total",
+          "Public contribution tracker repo (weekly log)",
+          "Mentor interaction started on org channels"
+        ]
+      },
+      {
+        "phase": "Phase 2 (Month 3-4): Depth",
+        "goals": [
+          "Contribute to one medium-complexity issue in your primary org",
+          "Own one feature slice end-to-end (design->PR->review)",
+          "Write one technical design note aligned with org roadmap"
+        ],
+        "deliverables": [
+          "2 medium PRs merged",
+          "At least 1 PR with multi-file changes and tests",
+          "Positive reviewer/mentor feedback on async communication"
+        ]
+      },
+      {
+        "phase": "Phase 3 (Month 5): Proposal Prep",
+        "goals": [
+          "Map your proposal directly to active issues/roadmap of org",
+          "Include milestone schedule, risk plan, and test strategy",
+          "Get 2 rounds of mentor/community review before deadline"
+        ],
+        "deliverables": [
+          "Proposal draft v1 by week 1",
+          "Proposal v2 after feedback by week 3",
+          "Final polished proposal 5-7 days before deadline"
+        ]
+      },
+      {
+        "phase": "Phase 4 (Final month before deadline): Signaling & Fit",
+        "goals": [
+          "Submit 1 additional high-quality PR in proposal area",
+          "Be active in discussions helping other contributors",
+          "Show reliability: on-time updates and revision turnaround"
+        ],
+        "deliverables": [
+          "Recent merged PR in same subsystem as proposal",
+          "Public timeline of completed work",
+          "Clear mentor acknowledgments in discussion threads"
+        ]
+      }
+    ],
+    "weekly_time_budget": {
+      "strong": "12-15 hours/week",
+      "minimum": "8-10 hours/week"
+    },
+    "proposal_quality_checklist": [
+      "Problem statement tied to org pain-point",
+      "Concrete milestones with week-by-week deliverables",
+      "Testing + validation strategy",
+      "Risk mitigation + fallback plan",
+      "Evidence of prior related merged contributions"
+    ]
+  },
+  "note": "This ranking is heuristic from scraped project text and should be refined after checking the current year idea lists."
+}
